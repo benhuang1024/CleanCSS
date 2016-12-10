@@ -1,5 +1,7 @@
 <?php
 /*author:ben,email:benhuang1024@163.com */
+/*
+ * */
 header("Content-type:text/html;charset=utf-8");
 $author = '/*author:ben,email:benhuang1024@163.com */';
 // print_r($_SERVER);
