@@ -3,7 +3,7 @@
 /*
  * */
 header("Content-type:text/html;charset=utf-8");
-$author = '/*author:ben,email:benhuang1024@163.com */';
+$author = '/*author:ben,email:benhuang1024@gmail.com */';
 // print_r($_SERVER);
 $keyword = trim($_POST['keyword']);
 if('ben' != $keyword){
