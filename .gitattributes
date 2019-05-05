@@ -1,0 +1,6 @@
+
+*.css linguist-language=php
+*.less linguist-language=php
+*.sass linguist-language=php
+*.js linguist-language=php
+*.html linguist-language=php
